@@ -66,7 +66,7 @@ Welcome to open issues if you meet any problem. It would be appreciated if you c
 - [ ] More details
 
 ## Cite
-If you use BA-SAM in your research, please use the following BibTeX entry. 
+If you use SimAda in your research, please use the following BibTeX entry. 
 ~~~
 
 ~~~
