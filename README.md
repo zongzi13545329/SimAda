@@ -1,6 +1,6 @@
-# SimAda: A Simple Unified Framework for Adapting Segment Anything Model in Underperformed Scenes
+# SU-SAM: A Simple Unified Framework for Adapting SAM in Underperformed Scene
 
-The official code for SimAda.
+The official code for SU-SAM.
 
 
 ## Requirement
